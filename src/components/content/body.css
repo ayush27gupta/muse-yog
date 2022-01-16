@@ -1,0 +1,45 @@
+.body-main {
+  display: flex;
+  justify-content: center;
+}
+
+.container-body {
+  border: 2px inset white;
+  height: 32rem;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  opacity: 0.7;
+
+  color: black;
+}
+
+.head-body {
+  font-weight: 400;
+  text-align: center;
+  border-radius: 1rem;
+}
+
+.sub-head-body {
+  font-weight: 500;
+  font-size: 2rem;
+  text-align: center;
+  color: black;
+}
+
+.inp-body {
+  margin: 1rem;
+  text-align: center;
+  font-weight: 500;
+  border-radius: 1rem;
+  color: black;
+}
+.para-body-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.body-btn {
+  border-radius: 1rem;
+}
